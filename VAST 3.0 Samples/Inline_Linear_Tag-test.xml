@@ -8,32 +8,32 @@
                 <![CDATA[ 25.00 ]]>
             </Pricing>
 
-            <Error>http://example.com/error</Error>
+            <Error>https://uplayer.stream/error</Error>
 
-            <Impression id="Impression-ID">http://example.com/track/impression</Impression>
+            <Impression id="Impression-ID">https://uplayer.stream/track/impression</Impression>
 
             <Creatives>
                 <Creative id="5480" sequence="1">
                     <Linear>
                         <Duration>00:00:16</Duration>
                         <TrackingEvents>
-                           <Tracking event="start" offset="09:15:23">http://example.com/tracking/start</Tracking>
-                            <Tracking event="firstQuartile">http://example.com/tracking/firstQuartile</Tracking>
-                            <Tracking event="midpoint">http://example.com/tracking/midpoint</Tracking>
-                            <Tracking event="thirdQuartile">http://example.com/tracking/thirdQuartile</Tracking>
-                            <Tracking event="complete">http://example.com/tracking/complete</Tracking>
+                           <Tracking event="start" offset="09:15:23">https://uplayer.stream/tracking/start</Tracking>
+                            <Tracking event="firstQuartile">https://uplayer.stream/tracking/firstQuartile</Tracking>
+                            <Tracking event="midpoint">https://uplayer.stream/tracking/midpoint</Tracking>
+                            <Tracking event="thirdQuartile">https://uplayer.stream/tracking/thirdQuartile</Tracking>
+                            <Tracking event="complete">https://uplayer.stream/tracking/complete</Tracking>
                         </TrackingEvents>
 
                          <VideoClicks>
                             <ClickTracking id="blog">
-                                <![CDATA[https://iabtechlab.com]]>
+                                <![CDATA[https://uplayer.stream]]>
                             </ClickTracking>
-                            <CustomClick>http://iabtechlab.com</CustomClick>
+                            <CustomClick>http://uplayer.stream</CustomClick>
                         </VideoClicks>
 
                         <MediaFiles>
                             <MediaFile id="5241" delivery="progressive" type="video/mp4" bitrate="500" width="400" height="300" minBitrate="360" maxBitrate="1080" scalable="1" maintainAspectRatio="1" codec="0">
-                                <![CDATA[https://iabtechlab.com/wp-content/uploads/2016/07/VAST-4.0-Short-Intro.mp4]]>
+                                <![CDATA[https://vichung.uplayer.stream/wp/wp-content/uploads/2018/07/binomo.mp4]]>
                             </MediaFile>
                         </MediaFiles>
 
